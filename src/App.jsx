@@ -90,7 +90,7 @@ function App() {
       <div className="app-header">
         <Container>
           <div className="text-center">
-            <h1 className="h2 mb-2">🚗 Smart Vehicle Tracker</h1>
+            <h1 className="h2 mb-2">🚗 Smart CI/CD Change </h1>
             <p className="mb-0 opacity-90">Real-time fleet management at your fingertips</p>
           </div>
         </Container>
