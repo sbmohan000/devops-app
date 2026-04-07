@@ -6,6 +6,7 @@ import VehicleMap from './components/VehicleMap';
 import VehicleList from './components/VehicleList';
 import VehicleDetailsModal from './components/VehicleDetailsModal';
 import './index.css';
+import Test from './Test';
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -186,6 +187,7 @@ function App() {
           {toastMessage}
         </Toast.Body>
       </Toast>
+      <Test/>
     </div>
   );
 }
